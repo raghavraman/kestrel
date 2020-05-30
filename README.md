@@ -19,4 +19,4 @@ A Chrome extension that helps you search on google more effeciently
 ## Build Chrome extension for release
 
 - Run `NODE_ENV=production yarn run build` to build the extension
-- Code will be built into the `\build` folder
+- Code will be built into the `/build` folder
